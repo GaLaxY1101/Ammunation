@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<Ammunation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductsList>
+    <Product>
+      <Weapon xsi:type="Shotgun">
+        <Mass>10</Mass>
+        <Caliber>12</Caliber>
+        <BarrelLength>50</BarrelLength>
+        <StoreCapacity>6</StoreCapacity>
+        <Country>USA</Country>
+        <Title>Remington Model 887</Title>
+        <Brand>OHIOAMMO</Brand>
+        <Purpose>sport</Purpose>
+        <Type>Shotgun</Type>
+        <BarrelCount>1</BarrelCount>
+      </Weapon>
+      <Price>4000</Price>
+    </Product>
+    <Product>
+      <Weapon xsi:type="Rifle">
+        <Mass>7</Mass>
+        <Caliber>5.56</Caliber>
+        <BarrelLength>40</BarrelLength>
+        <StoreCapacity>30</StoreCapacity>
+        <Country>Great Britan</Country>
+        <Title>M4A1</Title>
+        <Brand>GBAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Rifle</Type>
+        <FireRate>145</FireRate>
+      </Weapon>
+      <Price>10000</Price>
+    </Product>
+    <Product>
+      <Weapon xsi:type="Gun">
+        <Mass>0.5</Mass>
+        <Caliber>0.45</Caliber>
+        <BarrelLength>0.15</BarrelLength>
+        <StoreCapacity>12</StoreCapacity>
+        <Country>USA</Country>
+        <Title>USP-S</Title>
+        <Brand>USAAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Gun</Type>
+        <IsButt>false</IsButt>
+      </Weapon>
+      <Price>2000</Price>
+    </Product>
+    <Product>
+      <Weapon xsi:type="SniperRifle">
+        <Mass>10</Mass>
+        <Caliber>12.7</Caliber>
+        <BarrelLength>100</BarrelLength>
+        <StoreCapacity>20</StoreCapacity>
+        <Country>USA</Country>
+        <Title>Fury</Title>
+        <Brand>USAAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Sniper rifle</Type>
+        <ReplaceableBarrel>true</ReplaceableBarrel>
+      </Weapon>
+      <Price>15000</Price>
+    </Product>
+	<Product>
+      <Weapon xsi:type="SniperRifle">
+        <Mass>9</Mass>
+        <Caliber>12.7</Caliber>
+        <BarrelLength>1.2</BarrelLength>
+        <StoreCapacity>30</StoreCapacity>
+        <Country>Germany</Country>
+        <Title>SIG SSG 3000</Title>
+        <Brand>GAAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Sniper rifle</Type>
+        <ReplaceableBarrel>true</ReplaceableBarrel>
+      </Weapon>
+      <Price>12000</Price>
+    </Product>
+	<Product>
+      <Weapon xsi:type="SniperRifle">
+        <Mass>7</Mass>
+        <Caliber>12.7</Caliber>
+        <BarrelLength>1.2</BarrelLength>
+        <StoreCapacity>30</StoreCapacity>
+        <Country>Great Britan</Country>
+        <Title>Accuracy International Arctic Warfare 50</Title>
+        <Brand>GBAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Sniper rifle</Type>
+        <ReplaceableBarrel>true</ReplaceableBarrel>
+      </Weapon>
+      <Price>17000</Price>
+    </Product>
+	<Product>
+      <Weapon xsi:type="Gun">
+        <Mass>0.8</Mass>
+        <Caliber>0.45</Caliber>
+        <BarrelLength>0.2</BarrelLength>
+        <StoreCapacity>20</StoreCapacity>
+        <Country>USA</Country>
+        <Title>Glock 17</Title>
+        <Brand>USAAMMO</Brand>
+        <Purpose>army</Purpose>
+        <Type>Gun</Type>
+        <IsButt>false</IsButt>
+      </Weapon>
+      <Price>2000</Price>
+    </Product>
+  </ProductsList>
+  <OrdersList />
+</Ammunation>

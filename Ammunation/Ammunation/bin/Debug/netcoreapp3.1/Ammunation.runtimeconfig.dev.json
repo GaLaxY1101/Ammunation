@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Illua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Illua\\.nuget\\packages"
+    ]
+  }
+}

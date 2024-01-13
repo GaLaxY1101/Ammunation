@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEHtzzp/dWfOOCyjidltCxoDj4e0Lm+nMRVp2TkHmYX4ZZPry/brHo+HDKzFixQaDci3sOtuAHTZHS+A/w171g==",
+  "success": true,
+  "projectFilePath": "D:\\Education\\Programming\\Term3\\Pavel\\Ammunation\\Ammunation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Illua\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Illua\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Illua\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Illua\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

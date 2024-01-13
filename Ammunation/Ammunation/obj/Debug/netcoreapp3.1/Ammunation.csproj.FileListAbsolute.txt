@@ -1,0 +1,14 @@
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.exe
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.deps.json
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.runtimeconfig.json
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.runtimeconfig.dev.json
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.dll
+D:\Education\Programming\Term3\Pavel\Ammunation\bin\Debug\netcoreapp3.1\Ammunation.pdb
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.csproj.AssemblyReference.cache
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.AssemblyInfoInputs.cache
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.AssemblyInfo.cs
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.dll
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.pdb
+D:\Education\Programming\Term3\Pavel\Ammunation\obj\Debug\netcoreapp3.1\Ammunation.genruntimeconfig.cache
